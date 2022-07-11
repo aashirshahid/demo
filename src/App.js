@@ -2,7 +2,6 @@ import "./App.css";
 
 function App() {
 	return (
-		<div className="App-header">
 			<div class="wrapper">
 				<header>Todo App</header>
 				<div class="inputField">
@@ -18,7 +17,6 @@ function App() {
 					<button>Clear All</button>
 				</div>
 			</div>
-		</div>
 	);
 }
 
